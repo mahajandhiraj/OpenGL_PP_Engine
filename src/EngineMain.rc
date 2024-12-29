@@ -1,0 +1,6 @@
+#include<windows.h>
+#include "EngineMain.h"
+
+MYICON ICON "../assets/windowicon/MyIcon.ico"
+//MYICON -> users given resource name
+//ICON --> systems identifier for resource
