@@ -6,6 +6,7 @@
 *.lo
 *.o
 *.obj
+*.res
 
 # Precompiled Headers
 *.gch
@@ -32,4 +33,6 @@
 *.app
 
 # logs
-.txt
+*.txt
+*.json
+
